@@ -3,5 +3,6 @@ def square_array(numbers)
     puts number ** 2 
   end
   array = []
+  << number
 end  
 
